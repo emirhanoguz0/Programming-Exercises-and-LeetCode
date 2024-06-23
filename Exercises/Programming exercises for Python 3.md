@@ -24,7 +24,7 @@ Define a class which has at least two methods: getString: to get a string from c
 
 Hints: Use init method to construct some parameters
 
-### Question 6
+## Question 6
 Write a program that calculates and prints the value according to the given formula:
 Q = Square root of [(2 * C * D)/H]
 Following are the fixed values of C and H:
@@ -38,4 +38,9 @@ The output of the program should be:
 
 Hints:
 If the output received is in decimal form, it should be rounded off to its nearest value (for example, if the output received is 26.0, it should be printed as 26)
-In case of input data being supplied to the question, it should be assumed to be a console input. 
+In case of input data being supplied to the question, it should be assumed to be a console input.
+
+## Question 7
+Question: Write a program that accepts a comma separated sequence of words as input and prints the words in a comma-separated sequence after sorting them alphabetically. Suppose the following input is supplied to the program: without,hello,bag,world Then, the output should be: bag,hello,without,world
+
+Hints: In case of input data being supplied to the question, it should be assumed to be a console input.
