@@ -218,3 +218,8 @@ Python has many built-in functions, and if you do not know how to use it, you ca
 Please write a program to print some Python built-in functions documents, such as abs(), int(), raw_input()
 
 And add document for your own function Hints: The built-in document method is doc
+
+## Question 25
+Define a class, which have a class parameter and have a same instance parameter.
+
+Hints: Define a instance parameter, need add it in init method You can init a object with construct parameter or set the value later
