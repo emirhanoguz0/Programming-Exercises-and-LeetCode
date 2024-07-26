@@ -223,3 +223,8 @@ And add document for your own function Hints: The built-in document method is do
 Define a class, which have a class parameter and have a same instance parameter.
 
 Hints: Define a instance parameter, need add it in init method You can init a object with construct parameter or set the value later
+
+## Question 26
+Define a function which can compute the sum of two numbers.
+
+Hints: Define a function with two numbers as arguments. You can compute the sum in the function and return the value.
