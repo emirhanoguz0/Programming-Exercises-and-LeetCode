@@ -237,4 +237,9 @@ Hints:Use str() to convert a number to string.
 ## Question 28
 Define a function that can accept two strings as input and print the string with maximum length in console. If two strings have the same length, then the function should print all strings line by line.
 
-Hints:Use len() function to get the length of a string
+Hints: Use len() function to get the length of a string
+
+## Question 29
+Define a function that can accept an integer number as input and print the "It is an even number" if the number is even, otherwise print "It is an odd number".
+
+Hints: Use % operator to check if a number is even or odd.
