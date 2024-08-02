@@ -248,3 +248,8 @@ Hints: Use % operator to check if a number is even or odd.
 Define a function which can generate a dictionary where the keys are numbers between 1 and 20 (both included) and the values are square of keys. The function should just print the values only.
 
 Hints: Use dict[key]=value pattern to put entry into a dictionary. Use ** operator to get power of a number. Use range() for loops. Use keys() to iterate keys in the dictionary. Also we can use item() to get key/value pairs.
+
+## Question 31
+With a given tuple (1,2,3,4,5,6,7,8,9,10), write a program to print the first half values in one line and the last half values in one line.
+
+Hints: Use [n1:n2] notation to get a slice from a tuple.
