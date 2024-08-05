@@ -253,3 +253,8 @@ Hints: Use dict[key]=value pattern to put entry into a dictionary. Use ** operat
 With a given tuple (1,2,3,4,5,6,7,8,9,10), write a program to print the first half values in one line and the last half values in one line.
 
 Hints: Use [n1:n2] notation to get a slice from a tuple.
+
+## Question 32
+Define a class named Circle which can be constructed by a radius. The Circle class has a method which can compute the area.
+
+Hints:Use def methodName(self) to define a method.
