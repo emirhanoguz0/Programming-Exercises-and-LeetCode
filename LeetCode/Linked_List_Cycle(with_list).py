@@ -11,9 +11,9 @@ class Solution:
         :rtype: bool
         """
         l = []
-        while head is not None:
-            if head.val in l:
+        while head and head.next:
+            if head in l:
                 return True
-            l.append(head.val)
+            l.append(head)
             head = head.next
         return False
