@@ -4,12 +4,9 @@ class Solution(object):
         :type n: int
         :rtype: bool
         """
-        if n == 0:
+        if n == 1:
             return True
-        if n < 1:
+        if n % 2 != 0 or n==0:
             return False
         n /= 2
-        print(n)
         return self.isPowerOfTwo(n)
-
-print(Solution().isPowerOfTwo(3))
