@@ -5,15 +5,7 @@ class Solution:
         :type t: str
         :rtype: bool
         """
-        l = []
-        for x in s:
-            l.append(x)
-
-        for y in t:
-            if y in l:
-                l.remove(y)
-
-        if l:
-            return True
-        else:
+        if sorted(s) != sorted(t):
             return False
+        else:
+            return True
